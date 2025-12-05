@@ -59,11 +59,12 @@ if (tipoSelect) {
 }
 
 const csvUrls = [
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRqBpKp63xdD921Hs2xheVfVa1vhhbVya6RFC8IaC0mCli_kia3dHY1QQqpOwiy4f4Hznv4YkilhyYY/pub?gid=0&single=true&output=csv", // Primeiro arquivo local
-  "./csv/Infibra - Agenda Oficina Elétrica - Feriados.csv", // Segundo arquivo local
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRqBpKp63xdD921Hs2xheVfVa1vhhbVya6RFC8IaC0mCli_kia3dHY1QQqpOwiy4f4Hznv4YkilhyYY/pub?gid=0&single=true&output=csv", // arquivo online
+  // "./csv/Feriados - Fixo.csv", // arquivo local
+  // "./csv/Comemorativas - Fixo.csv", // arquivo local
 ];
 
-const fallbackCsv = "./csv/Infibra - Agenda Oficina Elétrica - Agenda.csv"; // Terceiro arquivo, só se o google sheets falhar.
+const fallbackCsv = "./csv/Agenda.csv"; // Terceiro arquivo, só se o google sheets falhar.
 
 async function fetchEvents() {
   const allEvents = [];
@@ -113,14 +114,14 @@ function parseCSV(text) {
     headers.forEach((h, i) => (ev[h] = values[i]?.trim()));
 
     // Se for a coluna 'data' e o tipo for 'Feriado', atualiza o ano
-    if (
-      ev.tipo?.toLowerCase() === "feriado" &&
-      ev.data?.match(/^\d{2}\/\d{2}\/\d{4}$/)
-    ) {
-      const [day, month] = ev.data.split("/");
-      ev.data = `${day}/${month}/${currentYear}`;
-      // console.log(ev);
-    }
+    // if (
+    //   ev.tipo?.toLowerCase() === "feriado" &&
+    //   ev.data?.match(/^\d{2}\/\d{2}\/\d{4}$/)
+    // ) {
+    //   const [day, month] = ev.data.split("/");
+    //   ev.data = `${day}/${month}/${currentYear}`;
+    //   // console.log(ev);
+    // }
 
     return ev;
   });

@@ -1,0 +1,404 @@
+data,hora,tipo,titulo,responsavel,obs,corFundo,corTexto
+01/01/1910,07:00-09:00,Exemplos,👨‍🔧 Manutenção Geral,Eliton,Cobertura Setor A,,
+03/01/1910,07:00-09:00,Exemplos,⚡ Inspeção Elétrica,Paula,Evento de teste,#1E90FF,
+05/01/1910,07:00-09:00,Exemplos,🎛️ Ajuste de Painel,Ricardo,Evento de teste,#f46524,#FFFFFF
+08/01/1910,09:00-17:00,Exemplos,🪢 Revisão de Cabos,João,Evento de teste,#FF4500,#FFFFFF
+12/01/1910,09:00-17:00,Exemplos,🛠 Vistoria Técnica,Ana,Evento de teste,#FFD700,
+15/01/1910,08:00-18:00,Exemplos,📢 Plantão Emergencial,Marcos,Cobertura Setor A,#FF69B4,#FFD700
+18/01/1910,09:00-17:00,Exemplos,🧪 Teste de Gerador,Felipe,Evento de teste,#8A2BE2,#FFFFFF
+21/01/1910,08:00-18:00,Exemplos,📝 Auditoria Interna,Camila,Cobertura Setor A,#00CED1,
+29/01/1910,09:00-17:00,Exemplos,🧹 Limpeza Técnica,Roberto,Evento de teste,#FF8C00,#FFFFFF
+30/01/1910,08:00-18:00,Exemplos,🪛 Atualização de Rede,Bruna,Cobertura Setor A,#CC0000,#FFFFFF
+01/01/2024,,Feriado,Ano Novo,,Nacional,#CC0000,#FFFFFF
+06/01/2024,,Comemorativa,Dia de Reis,,,,
+08/03/2024,,Comemorativa,Dia da Mulher,,,,
+15/03/2024,,Comemorativa,Dia do Consumidor,,,,
+02/04/2024,,Comemorativa,Dia Mundial do Autismo,,,,
+21/04/2024,,Feriado,Dia de Tiradentes,,Nacional,#CC0000,#FFFFFF
+22/04/2024,,Comemorativa,Descobrimento do Brasil,,,,
+01/05/2024,,Feriado,Dia do Trabalho,,Nacional,#CC0001,#FFFFFF
+12/05/2024,,Comemorativa,Dia das Enfermeiras,,,,
+13/05/2024,,Comemorativa,Abolição da Escravatura,,,,
+12/06/2024,,Comemorativa,Dia dos Namorados,,,,
+17/06/2024,,Feriado,Dia de São Manoel,,Municipal,#CC0002,#FFFFFF
+24/06/2024,,Comemorativa,Dia de São João,,,,
+09/07/2024,,Feriado,Revolução Constitucionalista,,Estadual (SP),#CC0003,#FFFFFF
+20/07/2024,,Comemorativa,Dia do Amigo,,,,
+11/08/2024,,Comemorativa,Dia do Estudante,,,,
+29/08/2024,,Feriado,Aniversário de Leme,,Municipal,#CC0004,#FFFFFF
+01/09/2024,,Aviso,⚽ Corinthians,Corinthians,Às 20h30 do dia 1º de setembro de 1910; à luz de um lampião; na esquina das ruas José Paulino e Cônego Martins; no bairro do Bom Retiro; o grupo de operários formado por Anselmo Corrêa; Antônio Pereira; Carlos Silva; Joaquim Ambrósio e Raphael Perrone fundaram o Sport Club Corinthians Paulista.,#CC0005,#FFFFFF
+07/09/2024,,Feriado,Independência do Brasil,,Nacional,#CC0006,#FFFFFF
+21/09/2024,,Comemorativa,Dia da Árvore,,,,
+12/10/2024,,Feriado,Nossa Senhora Aparecida,,Nacional,#CC0007,#FFFFFF
+12/10/2024,,Comemorativa,Dia das Crianças,,,,
+17/10/2024,,Comemorativa,Dia do Eletricista,,,,
+31/10/2024,,Comemorativa,Dia das Bruxas (Halloween),,,,
+02/11/2024,,Feriado,Finados,,Nacional,#CC0008,#FFFFFF
+15/11/2024,,Feriado,Proclamação da República,,Nacional,#CC0009,#FFFFFF
+20/11/2024,,Feriado,Consciência Negra,,Municipal,#CC0010,#FFFFFF
+25/12/2024,,Feriado,Natal,,Nacional,#CC0011,#FFFFFF
+01/01/2025,,Feriado,Ano Novo,,Nacional,#CC0000,#FFFFFF
+06/01/2025,,Comemorativa,Dia de Reis,,,,
+08/03/2025,,Comemorativa,Dia da Mulher,,,,
+15/03/2025,,Comemorativa,Dia do Consumidor,,,,
+02/04/2025,,Comemorativa,Dia Mundial do Autismo,,,,
+18/04/2025,,Feriado,Sexta-Feira Santa,,Nacional,#CC0000,#FFFFFF
+21/04/2025,,Feriado,Dia de Tiradentes,,Nacional,#CC0000,#FFFFFF
+22/04/2025,,Comemorativa,Descobrimento do Brasil,,,,
+01/05/2025,,Feriado,Dia do Trabalho,,Nacional,#CC0001,#FFFFFF
+12/05/2025,,Comemorativa,Dia das Enfermeiras,,,,
+13/05/2025,,Comemorativa,Abolição da Escravatura,,,,
+08/06/2025,,Plantão,Marcio,Marcio,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+12/06/2025,,Comemorativa,Dia dos Namorados,,,,
+14/06/2025,,Plantão,Lucas Bueno,Lucas Bueno,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+15/06/2025,,Plantão,Marcio,Marcio,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+17/06/2025,,Feriado,Dia de São Manoel,,Municipal,#CC0002,#FFFFFF
+17/06/2025,,Plantão,Leandro,Leandro,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+19/06/2025,,Feriado,Corpus Christi,,Nacional,#CC0000,#FFFFFF
+19/06/2025,,Plantão,Rodrigo,Rodrigo,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+21/06/2025,,Plantão,Eliton,Eliton,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+22/06/2025,,Plantão,Icaro Landgraf,Icaro Landgraf,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+24/06/2025,,Comemorativa,Dia de São João,,,,
+28/06/2025,,Plantão,Marcio,Marcio,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+29/06/2025,,Plantão,Lucas Bueno,Lucas Bueno,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+05/07/2025,,Plantão,Eliton,Eliton,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+06/07/2025,,Plantão,Rodrigo,Rodrigo,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+09/07/2025,,Feriado,Revolução Constitucionalista,,Estadual (SP),#CC0003,#FFFFFF
+09/07/2025,,Plantão,Richard Nixon,Richard Nixon,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+12/07/2025,,Plantão,Lucas Bueno,Lucas Bueno,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+13/07/2025,,Plantão,Marcio,Marcio,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+19/07/2025,,Plantão,Eliton,Eliton,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+20/07/2025,,Comemorativa,Dia do Amigo,,,,
+20/07/2025,,Plantão,Richard Nixon,Richard Nixon,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+26/07/2025,,Plantão,Marcio,Marcio,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+27/07/2025,,Plantão,Rodrigo,Rodrigo,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+02/08/2025,,Plantão,Icaro Landgraf,Icaro Landgraf,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+03/08/2025,,Plantão,Leandro,Leandro,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+04/08/2025,,LM,MAQ3 - LM,,,#E69138,
+06/08/2025,,LM,MAQ1 - LM,,,#3D85C6,
+07/08/2025,,TPT,MAQ2 - TPT,,,#FFF2CC,
+09/08/2025,,Plantão,Lucas Bueno,Lucas Bueno,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+10/08/2025,,Plantão,Eliton,Eliton,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+11/08/2025,,Comemorativa,Dia do Estudante,,,,
+11/08/2025,,TPT,MAQ3 - TPT,,,#FCE5CD,
+13/08/2025,,LM,MAQ2 - LM,,,#F1C232,
+14/08/2025,,TPT,MAQ1 - TPT,,,#CFE2F3,
+16/08/2025,,Plantão,Leandro,Leandro,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+17/08/2025,,Plantão,Lucas Bueno,Lucas Bueno,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+19/08/2025,,LM,MAQ3 - LM,,,#E69138,
+20/08/2025,,TPT,MAQ2 - TPT,,,#FFF2CC,
+21/08/2025,,LM,MAQ1 - LM,,,#3D85C6,
+23/08/2025,,Plantão,Marcio,Marcio,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+24/08/2025,,Plantão,Richard Nixon,Richard Nixon,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+26/08/2025,,TPT,MAQ3 - TPT,,,#FCE5CD,
+27/08/2025,,TPT,MAQ1 - TPT,,,#CFE2F3,
+28/08/2025,,LM,MAQ2 - LM,,,#F1C232,
+29/08/2025,,Feriado,Aniversário de Leme,,Municipal,#CC0004,#FFFFFF
+29/08/2025,,Plantão,Icaro Landgraf,Icaro Landgraf,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+30/08/2025,,Plantão,Leandro,Leandro,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+31/08/2025,,Plantão,Eliton,Eliton,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+01/09/2025,,Aviso,⚽ Corinthians,Corinthians,Às 20h30 do dia 1º de setembro de 1910; à luz de um lampião; na esquina das ruas José Paulino e Cônego Martins; no bairro do Bom Retiro; o grupo de operários formado por Anselmo Corrêa; Antônio Pereira; Carlos Silva; Joaquim Ambrósio e Raphael Perrone fundaram o Sport Club Corinthians Paulista.,#CC0005,#FFFFFF
+03/09/2025,,LM,MAQ1 - LM,,,#3D85C6,
+04/09/2025,,TPT,MAQ2 - TPT,,,#FFF2CC,
+06/09/2025,,Plantão,Richard Nixon,Richard Nixon,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+07/09/2025,,Feriado,Independência do Brasil,,Nacional,#CC0006,#FFFFFF
+07/09/2025,,Plantão,Lucas Bueno,Lucas Bueno,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+08/09/2025,,TPT,MAQ3 - TPT,,,#FCE5CD,
+10/09/2025,,LM,MAQ2 - LM,,,#F1C232,
+11/09/2025,,TPT,MAQ1 - TPT,,,#CFE2F3,
+13/09/2025,,Plantão,Rodrigo,Rodrigo,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+14/09/2025,,Plantão,Marcio,Marcio,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+16/09/2025,,LM,MAQ3 - LM,,,#E69138,
+17/09/2025,,TPT,MAQ2 - TPT,,,#FFF2CC,
+18/09/2025,,LM,MAQ1 - LM,,,#3D85C6,
+20/09/2025,,Plantão,Richard Nixon,Richard Nixon,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+21/09/2025,,Comemorativa,Dia da Árvore,,,,
+21/09/2025,,Plantão,Eliton,Eliton,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+23/09/2025,,TPT,MAQ3 - TPT,,,#FCE5CD,
+24/09/2025,,TPT,MAQ1 - TPT,,,#CFE2F3,
+25/09/2025,,LM,MAQ2 - LM,,,#F1C232,
+27/09/2025,,Plantão,Marcio,Marcio,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+28/09/2025,,Plantão,Rodrigo,Rodrigo,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+29/09/2025,,LM,MAQ3 - LM,,,#E69138,
+01/10/2025,,LM,MAQ1 - LM,,,#3D85C6,
+02/10/2025,,TPT,MAQ2 - TPT,,,#FFF2CC,
+04/10/2025,,Plantão,Lucas Bueno,Lucas Bueno,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+05/10/2025,,Plantão,Richard Nixon,Richard Nixon,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+06/10/2025,,TPT,MAQ3 - TPT,,,#FCE5CD,
+08/10/2025,,LM,MAQ2 - LM,,,#F1C232,
+09/10/2025,,TPT,MAQ1 - TPT,,,#CFE2F3,
+11/10/2025,,Plantão,Eliton,Eliton,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+12/10/2025,,Feriado,Nossa Senhora Aparecida,,Nacional,#CC0007,#FFFFFF
+12/10/2025,,Comemorativa,Dia das Crianças,,,,
+12/10/2025,,Plantão,Lucas Bueno,Lucas Bueno,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+14/10/2025,,LM,MAQ3 - LM,,,#E69138,
+15/10/2025,,TPT,MAQ2 - TPT,,,#FFF2CC,
+16/10/2025,,LM,MAQ1 - LM,,,#3D85C6,
+17/10/2025,,Comemorativa,Dia do Eletricista,,,,
+18/10/2025,,Plantão,Richard Nixon,Richard Nixon,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+19/10/2025,,Plantão,Rodrigo,Rodrigo,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+21/10/2025,,TPT,MAQ3 - TPT,,,#FCE5CD,
+22/10/2025,,TPT,MAQ1 - TPT,,,#CFE2F3,
+23/10/2025,,LM,MAQ2 - LM,,,#F1C232,
+25/10/2025,,Plantão,Icaro Landgraf,Icaro Landgraf,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+26/10/2025,,Plantão,Richard Nixon,Richard Nixon,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+27/10/2025,,LM,MAQ3 - LM,,,#E69138,
+29/10/2025,,LM,MAQ1 - LM,,,#3D85C6,
+30/10/2025,,TPT,MAQ2 - TPT,,,#FFF2CC,
+31/10/2025,,Comemorativa,Dia das Bruxas (Halloween),,,,
+01/11/2025,,Plantão,Lucas Bueno,Lucas Bueno,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+02/11/2025,,Feriado,Finados,,Nacional,#CC0008,#FFFFFF
+02/11/2025,,Plantão,Eliton,Eliton,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+03/11/2025,,TPT,MAQ3 - TPT,,,#FCE5CD,
+05/11/2025,,LM,MAQ2 - LM,,,#F1C232,
+06/11/2025,,TPT,MAQ1 - TPT,,,#CFE2F3,
+08/11/2025,,Plantão,Rodrigo,Rodrigo,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+09/11/2025,,Plantão,Lucas Bueno,Lucas Bueno,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+11/11/2025,,LM,MAQ3 - LM,,,#E69138,
+12/11/2025,,TPT,MAQ2 - TPT,,,#FFF2CC,
+13/11/2025,,LM,MAQ1 - LM,,,#3D85C6,
+15/11/2025,,Feriado,Proclamação da República,,Nacional,#CC0009,#FFFFFF
+15/11/2025,,Plantão,Richard Nixon,Richard Nixon,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+16/11/2025,,Plantão,Icaro Landgraf,Icaro Landgraf,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+18/11/2025,,TPT,MAQ3 - TPT,,,#FCE5CD,
+19/11/2025,,LM,MAQ2 - LM,,,#F1C232,
+20/11/2025,,Feriado,Consciência Negra,,Municipal,#CC0010,#FFFFFF
+21/11/2025,,TPT,MAQ1 - TPT,,,#CFE2F3,
+21/11/2025,,Plantão,Icaro Landgraf,Icaro Landgraf,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+22/11/2025,,Plantão,Eliton,Eliton,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+23/11/2025,,Plantão,Marcio,Marcio,O horário de inicio do sobreaviso é das 06:00 horas do dia que o manutentor está na escala até as 06:00 horas do dia seguinte a sua escala.,#FF4500,#FFFFFF
+24/11/2025,,LM,MAQ3 - LM,,,#E69138,
+26/11/2025,,LM,MAQ1 - LM,,,#3D85C6,
+27/11/2025,,TPT,MAQ2 - TPT,,,#FFF2CC,
+01/12/2025,,TPT,MAQ3 - TPT,,,#FCE5CD,
+03/12/2025,,LM,MAQ2 - LM,,,#F1C232,
+04/12/2025,,TPT,MAQ1 - TPT,,,#CFE2F3,
+09/12/2025,,LM,MAQ3 - LM,,,#E69138,
+10/12/2025,,TPT,MAQ2 - TPT,,,#FFF2CC,
+11/12/2025,,LM,MAQ1 - LM,,,#3D85C6,
+16/12/2025,,TPT,MAQ3 - TPT,,,#FCE5CD,
+17/12/2025,,TPT,MAQ1 - TPT,,,#CFE2F3,
+18/12/2025,,LM,MAQ2 - LM,,,#F1C232,
+22/12/2025,,LM,MAQ3 - LM,,,#E69138,
+25/12/2025,,Feriado,Natal,,Nacional,#CC0011,#FFFFFF
+29/12/2025,,TPT,MAQ3 - TPT,,,#FCE5CD,
+01/01/2026,,Feriado,Ano Novo,,Nacional,#CC0000,#FFFFFF
+06/01/2026,,Comemorativa,Dia de Reis,,,,
+06/01/2026,,LM,MAQ3 - LM,,,#9370DB,
+07/01/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+08/01/2026,,LM,MAQ1 - LM,,,#4472c4,
+12/01/2026,,LM,CEL1 - LM,,,#CCCCCC,
+13/01/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+14/01/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+15/01/2026,,LM,MAQ2 - LM,,,#ffff00,
+19/01/2026,,LM,MAQ3 - LM,,,#9370DB,
+21/01/2026,,LM,MAQ1 - LM,,,#4472c4,
+22/01/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+26/01/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+27/01/2026,,LM,CEL2 - LM,,,#F4CCCC,
+28/01/2026,,LM,MAQ2 - LM,,,#ffff00,
+29/01/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+03/02/2026,,LM,MAQ3 - LM,,,#9370DB,
+04/02/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+05/02/2026,,LM,MAQ1 - LM,,,#4472c4,
+09/02/2026,,LM,CEL1 - LM,,,#CCCCCC,
+10/02/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+11/02/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+12/02/2026,,LM,MAQ2 - LM,,,#ffff00,
+16/02/2026,,LM,MAQ3 - LM,,,#9370DB,
+17/02/2026,,Comemorativa,Carnaval,,Data móvel,,
+18/02/2026,,LM,MAQ1 - LM,,,#4472c4,
+19/02/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+23/02/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+24/02/2026,,LM,CEL2 - LM,,,#F4CCCC,
+25/02/2026,,LM,MAQ2 - LM,,,#ffff00,
+26/02/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+03/03/2026,,LM,MAQ3 - LM,,,#9370DB,
+04/03/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+05/03/2026,,LM,MAQ1 - LM,,,#4472c4,
+08/03/2026,,Comemorativa,Dia da Mulher,,,,
+09/03/2026,,LM,CEL1 - LM,,,#CCCCCC,
+10/03/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+11/03/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+12/03/2026,,LM,MAQ2 - LM,,,#ffff00,
+15/03/2026,,Comemorativa,Dia do Consumidor,,,,
+16/03/2026,,LM,MAQ3 - LM,,,#9370DB,
+18/03/2026,,LM,MAQ1 - LM,,,#4472c4,
+19/03/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+23/03/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+24/03/2026,,LM,CEL2 - LM,,,#F4CCCC,
+25/03/2026,,LM,MAQ2 - LM,,,#ffff00,
+26/03/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+31/03/2026,,LM,MAQ3 - LM,,,#9370DB,
+01/04/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+02/04/2026,,Comemorativa,Dia Mundial do Autismo,,,,
+02/04/2026,,LM,MAQ1 - LM,,,#4472c4,
+03/04/2026,,Feriado,Sexta-Feira Santa,,Nacional,#CC0000,#FFFFFF
+05/04/2026,,Comemorativa,Páscoa,,Data móvel,,
+06/04/2026,,LM,CEL1 - LM,,,#CCCCCC,
+07/04/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+08/04/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+09/04/2026,,LM,MAQ2 - LM,,,#ffff00,
+13/04/2026,,LM,MAQ3 - LM,,,#9370DB,
+15/04/2026,,LM,MAQ1 - LM,,,#4472c4,
+16/04/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+20/04/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+21/04/2026,,Feriado,Dia de Tiradentes,,Nacional,#CC0000,#FFFFFF
+22/04/2026,,Comemorativa,Descobrimento do Brasil,,,,
+22/04/2026,,LM,MAQ2 - LM,,,#ffff00,
+23/04/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+27/04/2026,,LM,CEL2 - LM,,,#F4CCCC,
+28/04/2026,,LM,MAQ3 - LM,,,#9370DB,
+29/04/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+30/04/2026,,LM,MAQ1 - LM,,,#4472c4,
+01/05/2026,,Feriado,Dia do Trabalho,,Nacional,#CC0001,#FFFFFF
+04/05/2026,,LM,CEL1 - LM,,,#CCCCCC,
+05/05/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+06/05/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+07/05/2026,,LM,MAQ2 - LM,,,#ffff00,
+10/05/2026,,Comemorativa,Dia das Mães,,Segundo domingo de maio,,
+11/05/2026,,LM,MAQ3 - LM,,,#9370DB,
+12/05/2026,,Comemorativa,Dia das Enfermeiras,,,,
+13/05/2026,,Comemorativa,Abolição da Escravatura,,,,
+13/05/2026,,LM,MAQ1 - LM,,,#4472c4,
+14/05/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+18/05/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+19/05/2026,,LM,CEL2 - LM,,,#F4CCCC,
+20/05/2026,,LM,MAQ2 - LM,,,#ffff00,
+21/05/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+26/05/2026,,LM,MAQ3 - LM,,,#9370DB,
+27/05/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+28/05/2026,,LM,MAQ1 - LM,,,#4472c4,
+01/06/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+02/06/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+03/06/2026,,LM,MAQ2 - LM,,,#ffff00,
+04/06/2026,,Feriado,Corpus Christi,,Nacional,#CC0000,#FFFFFF
+08/06/2026,,LM,MAQ3 - LM,,,#9370DB,
+09/06/2026,,LM,CEL1 - LM,,,#CCCCCC,
+10/06/2026,,LM,MAQ1 - LM,,,#4472c4,
+11/06/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+12/06/2026,,Comemorativa,Dia dos Namorados,,,,
+15/06/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+16/06/2026,,LM,MAQ2 - LM,,,#ffff00,
+17/06/2026,,Feriado,Dia de São Manoel,,Municipal,#CC0002,#FFFFFF
+18/06/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+23/06/2026,,LM,MAQ3 - LM,,,#9370DB,
+24/06/2026,,Comemorativa,Dia de São João,,,,
+24/06/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+25/06/2026,,LM,MAQ1 - LM,,,#4472c4,
+29/06/2026,,LM,CEL2 - LM,,,#F4CCCC,
+01/07/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+02/07/2026,,LM,MAQ2 - LM,,,#ffff00,
+06/07/2026,,LM,MAQ3 - LM,,,#9370DB,
+07/07/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+08/07/2026,,LM,MAQ1 - LM,,,#4472c4,
+09/07/2026,,Feriado,Revolução Constitucionalista,,Estadual (SP),#CC0003,#FFFFFF
+13/07/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+14/07/2026,,LM,CEL1 - LM,,,#CCCCCC,
+15/07/2026,,LM,MAQ2 - LM,,,#ffff00,
+16/07/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+20/07/2026,,Comemorativa,Dia do Amigo,,,,
+21/07/2026,,LM,MAQ3 - LM,,,#9370DB,
+22/07/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+23/07/2026,,LM,MAQ1 - LM,,,#4472c4,
+27/07/2026,,LM,CEL2 - LM,,,#F4CCCC,
+28/07/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+29/07/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+30/07/2026,,LM,MAQ2 - LM,,,#ffff00,
+03/08/2026,,LM,MAQ3 - LM,,,#9370DB,
+04/08/2026,,LM,CEL1 - LM,,,#CCCCCC,
+05/08/2026,,LM,MAQ1 - LM,,,#4472c4,
+06/08/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+09/08/2026,,Comemorativa,Dia dos Pais,,Segundo domingo de agosto,,
+10/08/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+11/08/2026,,Comemorativa,Dia do Estudante,,,,
+12/08/2026,,LM,MAQ2 - LM,,,#ffff00,
+13/08/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+18/08/2026,,LM,MAQ3 - LM,,,#9370DB,
+19/08/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+20/08/2026,,LM,MAQ1 - LM,,,#4472c4,
+24/08/2026,,LM,CEL2 - LM,,,#F4CCCC,
+25/08/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+26/08/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+27/08/2026,,LM,MAQ2 - LM,,,#ffff00,
+29/08/2026,,Feriado,Aniversário de Leme,,Municipal,#CC0004,#FFFFFF
+01/09/2026,,Aviso,⚽ Corinthians,Corinthians,Às 20h30 do dia 1º de setembro de 1910; à luz de um lampião; na esquina das ruas José Paulino e Cônego Martins; no bairro do Bom Retiro; o grupo de operários formado por Anselmo Corrêa; Antônio Pereira; Carlos Silva; Joaquim Ambrósio e Raphael Perrone fundaram o Sport Club Corinthians Paulista.,#CC0005,#FFFFFF
+02/09/2026,,LM,MAQ1 - LM,,,#4472c4,
+03/09/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+07/09/2026,,Feriado,Independência do Brasil,,Nacional,#CC0006,#FFFFFF
+08/09/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+09/09/2026,,LM,MAQ2 - LM,,,#ffff00,
+10/09/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+14/09/2026,,LM,CEL1 - LM,,,#CCCCCC,
+15/09/2026,,LM,MAQ3 - LM,,,#9370DB,
+16/09/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+17/09/2026,,LM,MAQ1 - LM,,,#4472c4,
+21/09/2026,,Comemorativa,Dia da Árvore,,,,
+21/09/2026,,LM,CEL2 - LM,,,#F4CCCC,
+22/09/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+23/09/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+24/09/2026,,LM,MAQ2 - LM,,,#ffff00,
+28/09/2026,,LM,MAQ3 - LM,,,#9370DB,
+30/09/2026,,LM,MAQ1 - LM,,,#4472c4,
+01/10/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+05/10/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+06/10/2026,,LM,CEL1 - LM,,,#CCCCCC,
+07/10/2026,,LM,MAQ2 - LM,,,#ffff00,
+08/10/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+12/10/2026,,Feriado,Nossa Senhora Aparecida,,Nacional,#CC0007,#FFFFFF
+12/10/2026,,Comemorativa,Dia das Crianças,,,,
+13/10/2026,,LM,MAQ3 - LM,,,#9370DB,
+14/10/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+15/10/2026,,LM,MAQ1 - LM,,,#4472c4,
+17/10/2026,,Comemorativa,Dia do Eletricista,,,,
+19/10/2026,,LM,CEL2 - LM,,,#F4CCCC,
+20/10/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+21/10/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+22/10/2026,,LM,MAQ2 - LM,,,#ffff00,
+26/10/2026,,LM,MAQ3 - LM,,,#9370DB,
+28/10/2026,,LM,MAQ1 - LM,,,#4472c4,
+29/10/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+31/10/2026,,Comemorativa,Dia das Bruxas (Halloween),,,,
+02/11/2026,,Feriado,Finados,,Nacional,#CC0008,#FFFFFF
+03/11/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+04/11/2026,,LM,MAQ2 - LM,,,#ffff00,
+05/11/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+09/11/2026,,LM,MAQ3 - LM,,,#9370DB,
+10/11/2026,,LM,CEL1 - LM,,,#CCCCCC,
+11/11/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+12/11/2026,,LM,MAQ1 - LM,,,#4472c4,
+15/11/2026,,Feriado,Proclamação da República,,Nacional,#CC0009,#FFFFFF
+16/11/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+18/11/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+19/11/2026,,LM,MAQ2 - LM,,,#ffff00,
+20/11/2026,,Feriado,Consciência Negra,,Municipal,#CC0010,#FFFFFF
+23/11/2026,,LM,CEL2 - LM,,,#F4CCCC,
+24/11/2026,,LM,MAQ3 - LM,,,#9370DB,
+25/11/2026,,LM,MAQ1 - LM,,,#4472c4,
+26/11/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+01/12/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+02/12/2026,,LM,MAQ2 - LM,,,#ffff00,
+03/12/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+07/12/2026,,LM,CEL1 - LM,,,#CCCCCC,
+08/12/2026,,LM,MAQ3 - LM,,,#9370DB,
+09/12/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+10/12/2026,,LM,MAQ1 - LM,,,#4472c4,
+14/12/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+15/12/2026,,LM,CEL2 - LM,,,#F4CCCC,
+16/12/2026,,TPT,MAQ1 - TPT,,,#d9e2f3,
+17/12/2026,,LM,MAQ2 - LM,,,#ffff00,
+21/12/2026,,LM,MAQ3 - LM,,,#9370DB,
+22/12/2026,,LM,MAQ1 - LM,,,#4472c4,
+23/12/2026,,TPT,MAQ2 - TPT,,,#ffff99,
+25/12/2026,,Feriado,Natal,,Nacional,#CC0011,#FFFFFF
+29/12/2026,,TPT,MAQ3 - TPT,,,#C9DAF8,
+,,,,,,#FF69B4,#FFD700
+,,,,,,#1E90FF,
+,,,,,,#f46524,#FFFFFF
+,,,,,,#FF4500,#FFFFFF
+,,,,,,#FFD700,
+,,,,,,#FF69B4,#FFD700
+,,,,,,#8A2BE2,#FFFFFF
+,,,,,,#00CED1,
+,,,,,,#FF8C00,#FFFFFF
+,,,,,,#CC0000,#FFFFFF

@@ -1,2 +1,3 @@
 # git rm --cached -r "*desktop.ini"
-**/desktop.ini
+*.ini
+*.bak
