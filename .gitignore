@@ -1,1 +1,2 @@
-*.ini
+# git rm --cached -r "*desktop.ini"
+**/desktop.ini
